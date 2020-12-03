@@ -4,7 +4,7 @@ Lesson 1: Testing MVC Applications
 JOSE VICENTE TEJERO - 03/12/2020
 
 RESUMEN
-How to Work with Bootstrap 
+How to Run Unit Tests
 
 PROBLEMAS
 No
